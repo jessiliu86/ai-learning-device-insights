@@ -2,6 +2,8 @@
 
 An interactive research dashboard comparing what device standards require, what brands promote, and what consumers discuss. The original Chinese interface preserves the terminology used in our computational social science course project.
 
+[Open the live dashboard](https://jessiliu86.github.io/ai-learning-device-insights/)
+
 ## Explore the dashboard
 
 Start with the overview, then open the stakeholder comparison to see how attention shifts across seven product dimensions. The other views cover research design, topics, platform sentiment, differences between brand and consumer sentiment, and changes over time.
